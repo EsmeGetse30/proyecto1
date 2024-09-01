@@ -72,8 +72,6 @@ header {
     border-radius: 25px;
     align-items: center;
     justify-content: center;
-
-
 }
 .ilustracion{
     width: 1012px;
@@ -269,15 +267,21 @@ header {
 }
 
 
-#buttum1{
-    margin-top: 80px;
+#buttum1 {
+    color: white;
     display: flex;
-    align-content: center;
-    justify-content: center;
-}
-.buttum {
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 18px;
+    background-color: #000000;
     width: 132px;
     height: 52px;
+    border-radius: 25px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 651px;
+    margin-top: 40px;
+}
+
 }
 #divider1{
     margin-top: 10px;
@@ -307,8 +311,15 @@ header {
 
  }
  .segundo-bloque-9- {
+    display: flex;
+    font-family: "Josefin Sans", sans-serif;
+    font-size: 18px;
+    background-color: #71A894;
     width: 219px;
-    height: 64px;
+    height: 40px;
+    border-radius: 25px;
+    align-items: center;
+    justify-content: center;
  }
  .segundo-bloque9{
     font-family: "Sedan", serif;
